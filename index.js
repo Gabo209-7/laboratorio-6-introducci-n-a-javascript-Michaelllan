@@ -36,7 +36,8 @@ console.log("========================================");
 console.log("  SISTEMA DE TICKETS DEL METRO");
 console.log("========================================\n");
 
-// TODO: Crea un bucle for que recorra el array 'clientes'
+
+// TODO: Crea un bucle for que recorr el array 'clientes'
 for (let i = 0; i < clientes.length; i++) {
     
     // TODO: Paso 1 - Obtén los datos del cliente actual
